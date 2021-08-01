@@ -1,0 +1,1 @@
+function openTab(e){for(var n=document.getElementsByClassName("containerTab"),a=0;a<n.length;a++)n[a].style.display="none";document.getElementById(e).style.display="block"}function myFunction(){var e=document.getElementById("myTopnav");"topnav"===e.className?e.className+=" responsive":e.className="topnav"}
